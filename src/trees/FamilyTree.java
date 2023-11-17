@@ -55,7 +55,7 @@ public class FamilyTree
             return null;
         }
         
-        
+        //
         // Returns a list of ancestors of this TreeNode, starting with this node’s parent and
         // ending with the root. Order is from recent to ancient.
         ArrayList<TreeNode> collectAncestorsToList()
